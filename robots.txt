@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aishaikeip.aunyks.science/sitemap.xml
